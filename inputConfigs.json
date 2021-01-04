@@ -1,0 +1,21 @@
+[
+	{
+	"name": "taxA"
+	"minPrice": 1000,
+	"maxPrice": 7500,
+	"tax": 12,
+	"type": "percentage"
+	},
+	{
+	"name": "taxB"
+	"minPrice": 7500,
+	"tax": 18,
+	"type": "percentage"
+	},
+	{
+	"name": "taxC"
+	"minPrice": 0,
+	"tax": 200,
+	"type": "fixed"
+	}
+]

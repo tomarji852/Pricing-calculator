@@ -1,0 +1,11 @@
+[
+	{
+	"name": "itemA",
+	"basePrice": 120000,
+	"discount": 5
+	},
+	{
+	"name": "itemB",
+	"basePrice": 2000
+	}
+]

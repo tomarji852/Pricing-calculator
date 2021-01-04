@@ -1,0 +1,10 @@
+D:\Test project\supr\pricing-engine\bin\Debug\pricing-engine.exe.config
+D:\Test project\supr\pricing-engine\bin\Debug\pricing-engine.exe
+D:\Test project\supr\pricing-engine\bin\Debug\pricing-engine.pdb
+D:\Test project\supr\pricing-engine\bin\Debug\Newtonsoft.Json.dll
+D:\Test project\supr\pricing-engine\bin\Debug\Newtonsoft.Json.xml
+D:\Test project\supr\pricing-engine\obj\Debug\pricing-engine.csprojAssemblyReference.cache
+D:\Test project\supr\pricing-engine\obj\Debug\pricing-engine.csproj.CoreCompileInputs.cache
+D:\Test project\supr\pricing-engine\obj\Debug\pricing-engine.csproj.CopyComplete
+D:\Test project\supr\pricing-engine\obj\Debug\pricing-engine.exe
+D:\Test project\supr\pricing-engine\obj\Debug\pricing-engine.pdb
